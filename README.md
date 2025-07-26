@@ -36,8 +36,8 @@ Claude Code sub-agents are specialized AI assistants that handle specific develo
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/your-username/claude-code-subagents.git
-cd claude-code-subagents
+git clone https://github.com/fiqriismail/claude-sub-agents.git
+cd claude-sub-agents
 ```
 
 2. Copy sub-agents to appropriate locations:
