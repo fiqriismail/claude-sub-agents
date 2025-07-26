@@ -14,22 +14,15 @@ Claude Code sub-agents are specialized AI assistants that handle specific develo
 
 ```
 ├── agents/                 # Collection of sub-agents organized by category
-│   ├── code-development/
-│   ├── code-review/
-│   ├── testing-debugging/
-│   ├── documentation/
-│   └── devops-deployment/
-├── templates/              # Base templates for creating new sub-agents
-├── examples/               # Example configurations and use cases
-└── docs/                   # Additional documentation
+│   └── qa-automation/      # QA and testing automation sub-agents
+├── LICENSE
+└── README.md
 ```
 
 ## Available Sub-Agents
 
 ### QA Automation
-- **`angular-qa-agent`**: Specialized in testing Angular applications with best practices for component testing, service testing, and E2E automation
-- **`react-qa-agent`**: Expert in React testing including unit tests with React Testing Library, component testing, and integration testing strategies
-- **`playwright-env-setup-agent`**: Handles Playwright test environment setup, configuration, and best practices for cross-browser testing automation
+[**View QA Automation Sub-Agents →**](agents/qa-automation/README.md)
 
 ## Getting Started
 
