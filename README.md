@@ -230,13 +230,6 @@ For comprehensive troubleshooting and performance considerations, see the [offic
 - Open an issue for bugs or questions
 - Share successful sub-agent configurations with the community
 
-## Example Configurations
-
-See the `examples/` directory for complete sub-agent configurations including:
-- Different expertise areas and specializations
-- Tool configuration patterns
-- System prompt best practices
-- Real-world use cases and workflows
 
 ## License
 
